@@ -1,11 +1,18 @@
 
-# TALK NAME
+# Getting The Most Out Of Travis For Perl
 
-This presentation covers TALK TOPIC
+This presentation explains how to get started using
+[Travis-CI](http://travis-ci.org), and some tips on how to maximize your
+testing for anxiety-free CPAN releases.
 
 ## Covered topics
 
-TBA
+* Getting started using Travis
+* The Travis configuration file
+* [Graham Knop](https://github.com/haarg)'s [Travis Perl
+  Helpers](https://github.com/travis-perl/helpers)
+* Maximizing test coverage
+* Testing optional dependencies
 
 # COPYRIGHT AND LICENSE
 
