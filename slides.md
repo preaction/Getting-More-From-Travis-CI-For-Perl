@@ -365,5 +365,7 @@ More info:
 
 This talk:
 
-# XXX
+* [On Github](http://preaction.github.io/Getting-The-Most-From-Travis-CI-For-Perl)
+* [Source](http://github.com/preaction/Getting-The-Most-From-Travis-CI-For-Perl)
+* License: CC-BY-SA
 
