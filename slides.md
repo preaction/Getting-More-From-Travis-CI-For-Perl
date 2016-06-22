@@ -371,6 +371,18 @@ Hide modules in the matrix
 
 Travis comes with Perlbrew
 
+---
+
+# Perl forks
+
+cperl, stableperl, pumpkin perl
+
+---
+
+# [Customize Notifications](https://docs.travis-ci.com/user/notifications/)
+
+E-mail, IRC, Slack, HipChat, Webhooks
+
 ------
 
 # Questions?
